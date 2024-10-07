@@ -25,7 +25,7 @@ In this task we were tought about relative paths,
 "**_This means how you specify a particular file, depends on where the terminal prompt is located._**"
 Here I had to get into the main directory and then I had to do "_/challenge/run_" but
 I faced a problem in accessing the directory using relative paths as I was not very familiar with how to access a directory using relative path.Then I understood that relative path removes the "_/_" out of the way and there fore the command begins with "c" and I understood the basc concept of relative path and I got the flag by entering the command ***challenge/run***.
-****
+
 **explicit relative paths, from/: **
 In most operating systems, including Linux, every directory has two implicit entries that you can reference in paths: . and ... The first, ., refers right to the same directory, so the following absolute paths are all identical to each other:
 
